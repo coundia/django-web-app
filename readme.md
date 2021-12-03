@@ -8,3 +8,6 @@
 ##Générez du code de base pour un projet Django
      django-admin startproject merchex
 ##lancer le serveur
+    py manage.py runserver
+#creer une appli
+    py manage.py startapp listings
